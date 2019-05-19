@@ -372,5 +372,5 @@ To finalize the model architecture, following is the sequence of importance:
 
 ## Summary
 
-![](data/Result.jpg)
+![](https://github.com/Shilpaj1994/DeepVision/blob/master/Assignment-4/data/Result.JPG?raw=true)
 
