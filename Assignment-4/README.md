@@ -160,7 +160,7 @@ To finalize the model architecture, following is the sequence of importance:
 
 ### Concept of Transition Layer
 
-![](D:/ML/TSAI/Assignments/DeepVision/Assignment-4/data/kernel_number.png)
+![](https://github.com/Shilpaj1994/DeepVision/blob/master/Assignment-4/data/kernel_number.png?raw=true)
 
 - Consider above image. The left point represents number of channels in input image
 - As we add convolution block, the number of channels increases
