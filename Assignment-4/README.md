@@ -20,7 +20,7 @@ The repository contains following notebooks of a model which was trained stepwis
     - After transition block
     - After every convolutional layer
     - After every layer in convolutional block
-  - Adding dropout of 0.20 worked well and increased the accuracy to 99.36% in 25th epoch
+  - Adding dropout of 0.20 after transition block worked well and increased the accuracy to 99.36% in 25th epoch
 - [4th_DNN](https://github.com/Shilpaj1994/DeepVision/blob/master/Assignment-4/4th_DNN.ipynb) - **Learning Rate**
   - In this notebook, I changed the learning rate from normal to scheduled decreasing learning rate
   - The learning rate drops after every epoch
