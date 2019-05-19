@@ -73,7 +73,6 @@ To finalize the model architecture, following is the sequence of importance:
 - Softmax activation is responsible for prediction
 - During training, we need to observe the results so we should put validation checks
 - Based on the performance of the network, we can decide whether to continue with the architecture or change it.
-- 
 
 ---
 
@@ -154,7 +153,7 @@ To finalize the model architecture, following is the sequence of importance:
 - Reduce is dimension of channels causes loss of information.
 - Since, edges and gradients are formed in initial 2-3 layers, we do not use MP layer before these features are formed
 - For prediction of an object, the input to the output block is very important 
-- If we use MP before output block, it will reduce the information passing to the output block and will result in prediction accuracy
+- If we use MP before output block, it will reduce the information passing to the output block and will result in loss of prediction accuracy
 - Hence, MP layer is not used before output block
 
 
@@ -239,7 +238,7 @@ To finalize the model architecture, following is the sequence of importance:
 - If we have 2 networks with 95% and 98% accuracy of first epoch, then the network with higher first epoch accuracy will always perform better than lower first epoch accuracy
 - Dropout can give us a boost of around 0.20%
 - Learning rate scheduler can give us a boost of around 0.10%
-- So, network giving an accuracy of about ___% less than desired accuracy then the network is not doing well.
+- So, vanilla network giving an accuracy of about 99.10% will be able to achieve the goal of 99.40+%
 
 ---
 
