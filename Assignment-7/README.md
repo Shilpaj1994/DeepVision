@@ -65,7 +65,7 @@
 
 ![](GoogleLeNet.jpg)
 
-![](Network.jpg)
+![](https://github.com/Shilpaj1994/DeepVision/blob/master/Assignment-7/Network.JPG?raw=true)
 
 
 
