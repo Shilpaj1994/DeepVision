@@ -1,4 +1,4 @@
-## GoogleLeNet Architecture (Inception Network)
+## GoogleLeNet Architecture
 
 ![](https://cdn-images-1.medium.com/max/2600/1*ZFPOSAted10TPd3hBQU8iQ.png)
 
