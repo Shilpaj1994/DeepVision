@@ -1,0 +1,27 @@
+# Notes
+
+- Assignment-3
+  - Visualize Kernels in a layer
+- Assignment-4
+  - LR Scheduler
+  - Model design sequence
+- Assignment-5
+  - Image Normalization
+  - L2 regularization (Layer regularization)
+  - Misclassified images
+- Assignment-6
+  - Separable Conv
+  - Depthwise Conv
+  - Dilated Conv
+  - Grouped Conv
+  - Training plots
+- Assignment-7
+  - ENAS
+  - Space to depth
+- Assignment-9
+  - Google Drive - Model storing/loading
+  - GradCam
+- Assignment-10
+  - GradCam for particular output class (in any particular layer)
+- Assignment-11
+  - Template
