@@ -22,9 +22,14 @@
   - Google Drive - Model storing/loading
   - GradCam
   - CutOut
+  - SpatialDropout
+  - Checkpoint Callbacks
 - Assignment-10
   - GradCam for particular output class (in any particular layer)
 - Assignment-11
   - Initial LR finder
   - SGD with momentum
+  - Plot of 25 misclassified images with GradCam
+  - CutOut
+  - Training and Validation accuracy curves
   - Template
