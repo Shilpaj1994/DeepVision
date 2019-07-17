@@ -21,7 +21,10 @@
 - Assignment-9
   - Google Drive - Model storing/loading
   - GradCam
+  - CutOut
 - Assignment-10
   - GradCam for particular output class (in any particular layer)
 - Assignment-11
+  - Initial LR finder
+  - SGD with momentum
   - Template
