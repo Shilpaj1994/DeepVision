@@ -33,3 +33,11 @@
   - CutOut
   - Training and Validation accuracy curves
   - Template
+
+- Assignment-12
+  - Normalization using mean and standard deviation
+  - Crop and padding augmentation
+  - Multiple augmentation technique in `datagen.flow`
+  - Parameters adjustment using trackbars
+  - Model with lambda layer
+  - One cycle LR
